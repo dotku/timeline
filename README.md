@@ -51,6 +51,7 @@ tech limit. It was a great experience.
 Due to pandemic, #REEF mobile kitchen team was closed. I started working on something else, including #PPE business
 
 * 2020/08 Joined Facebook again for media studio
+* 2020/01 My 3rd kid, Jason, was born ;)
 
 ## 2019
 
@@ -68,9 +69,11 @@ We had a wonderful time. I missing the days we work together.
 
 ## 2017
 
-* Joined Facebook FAIR team, and thanks to #JessePerez, he supports me a lot during my depressed time
+Joined Facebook FAIR team, and thanks to #JessePerez, he supports me a lot during my depressed time
 when I was working at such a big company. The collegeus are smart, but I felt lonely as a contructor.
 Credit to #Christian, #Reena, #Weiyi, #Oscar, #Rosio, #Mark.
+
+* 2027/07 - My 2nd kid, Olivia was born :)
 
 ## 2016
 
