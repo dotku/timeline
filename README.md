@@ -38,3 +38,46 @@ tech limit. It was a great experience.
 
 * 2022/03/15 - Got Principal Engineer postion offer from Slate AI.
 
+## 2012
+
+* 2012/03 - I start using github.
+
+## 2004
+
+Graducated from high school.
+
+## 2003
+
+We got new place in richmond district.
+
+## 2002
+
+I moved to the US. New York was my first station, and then we move to Tenderloin, San Francisco.
+
+> Tenderloin is the poorest district in San Francisco
+
+## 2000
+
+My sister migrate to the US.
+
+## 1998
+
+We moved to Wuhang, Changle.
+
+## 1996
+
+We moved to Hangchen, Changle.
+
+## 1992
+
+We moved into the new appartment.
+
+## 1989?
+
+I move to Houyu, Changle.
+
+## 1986
+
+I was born in Shati, Changle.
+
+
