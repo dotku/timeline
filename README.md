@@ -1,5 +1,9 @@
 # timeline
 
+## AD 100
+
+* BC 27 ~ AD 476, Roman Empire
+
 ## BC 5
 
 * Jesus was born
@@ -7,6 +11,8 @@
 ## BC 200
 
 * China was united
+* BC 221 ~ BC 207, Qin Dynsty
+* BC 202 ~ AD 220, Han Dynsty
 
 ## BC 300
 
@@ -14,8 +20,13 @@
 
 ## BC 500
 
+* BC 500 ~ BC 27, Roman Republic
+
+## BC 700
+
 * Gotama Siddhattha created Buddhism
 * Confucius
+* BC 753 ~ BC 500, Roman Kingdom
 
 ## BC 1.3K
 
@@ -95,3 +106,7 @@ Galexy was borned
 ## BC 13.7B
 
 University was borned
+
+## Reference
+
+* https://www.163.com/dy/article/DOM37VQK0523TAAE.html
