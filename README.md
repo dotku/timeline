@@ -1,5 +1,9 @@
 # timeline
 
+## 2024
+
+* 2024/03 - I lost my job at Meta again :(
+
 ## 2023
 
 It is almost the end of the year. Review this year, we got industrial Layoff again. 
@@ -38,9 +42,67 @@ tech limit. It was a great experience.
 
 * 2022/03/15 - Got Principal Engineer postion offer from Slate AI.
 
+## 2021
+
+* 2021/08 - Joined Walmart for membership benefit team
+
+## 2020
+
+Due to pandemic, #REEF mobile kitchen team was closed. I started working on something else, including #PPE business
+
+* 2020/08 Joined Facebook again for media studio
+
+## 2019
+
+* Due to government ban, the Huawei robot team was turned down, I lost my job again :(
+* Joined Xero, but got reorged just in 2 weeks; San Francisco branch was shut down; however,
+the best earning is that I learned #GraphQL during the time.
+Credit to #Adam, #Kevin, #Lilit, #Eugene, #Danny, #Guo, #Jishaal, #Luke
+* Joined #REEF
+
+## 2018
+
+* I joined Huawei Technology and working on robot development toolkit. It was fun time, and
+the team was awesome! #Crystal, #Dylan, #Michelle, #Chris, #Ken, #Rony, #Michael, #Karishma ...
+We had a wonderful time. I missing the days we work together.
+
+## 2017
+
+* Joined Facebook FAIR team, and thanks to #JessePerez, he supports me a lot during my depressed time
+when I was working at such a big company. The collegeus are smart, but I felt lonely as a contructor.
+Credit to #Christian, #Reena, #Weiyi, #Oscar, #Rosio, #Mark.
+
+## 2016
+
+I joined BlueJay Mobile, introduced by my SJSU alumni #John-Li.
+Not even a year, the company was facing financial difficulty, 1/3 company members are layoffed.
+
+## 2015
+
+I moved to San Francisco again.
+
+* 2015/10 - My first kid, Joanna, was born <3
+
+## 2013
+
+I found a job in Fuzhou, joined Fujian Dazhi (TRS partner), and work for government project.
+
 ## 2012
 
+A lot things going in the year:
+
 * 2012/03 - I start using github.
+* 2012/08/17 - I got married
+* I start awaring of bitcoin, but I missed the chance.
+
+## 2011
+
+* 2011/12 - I met my future wife in Shanghai.
+
+## 2010
+
+* 2010/07 - I connected with my future wife <3
+* My dad was sick
 
 ## 2004
 
